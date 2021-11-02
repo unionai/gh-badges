@@ -1,1 +1,1 @@
-{"P0":{"label":"Core","icon":"github","status":"PASS","color":"00EEFF"},"":{"icon":"github","status":"","color":""},"\"core\"":{"label":"\"core\"","icon":"github","status":"\"passing\"","color":"\"green\""},"core":{"label":"core","icon":"github","status":"passing","color":"green"}}
+{"P0":{"label":"Core","icon":"github","status":"PASS","color":"00EEFF"},"":{"icon":"github","status":"","color":""},"\"core\"":{"label":"\"core\"","icon":"github","status":"\"passing\"","color":"\"green\""},"core":{"label":"core","icon":"github","status":"failing","color":"red"}}
